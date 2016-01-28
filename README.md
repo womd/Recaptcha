@@ -1,5 +1,5 @@
 # Recaptcha
-PHP - class that can query recaptcha - api for validation
+PHP - class that can query recaptcha - api v2 for validation
 ( see more at: https://developers.google.com/recaptcha/intro )
 
 - uses CURL to query recaptcha-api
